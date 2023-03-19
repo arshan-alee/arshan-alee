@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/arshana97384911" target="blank"><img src="https://img.shields.io/twitter/follow/arshana97384911?logo=twitter&style=for-the-badge" alt="arshana97384911" /></a> </p>
 
-- 🌱 I’m currently learning **PHP, MySQL and Wordpress**
+- 🌱 I’m currently learning **Flutter**
 
 - 💬 Ask me about **React JS**
 
